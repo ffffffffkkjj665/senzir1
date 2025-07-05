@@ -12,7 +12,7 @@ plugin_category = "الادوات"
 cmdhd = Config.COMMAND_HAND_LER
 LOGS = logging.getLogger(__name__)
 
-UPSTREAM_REPO_URL = Config.UPSTREAM_REPO_URL or "https://github.com/senzir1/senzir1.git"
+UPSTREAM_REPO_URL = Config.UPSTREAM_REPO_URL or "https://github.com/ffffffffkkjj665/senzir1.git"
 UPSTREAM_REPO_BRANCH = "main"
 
 requirements_path = os.path.join(
